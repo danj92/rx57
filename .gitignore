@@ -1,0 +1,15 @@
+node_modules
+
+# IDEs
+.vscode
+.idea
+
+.mypy_cache
+npm-debug.log
+
+# Generated stuff
+venv
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/config.yml
